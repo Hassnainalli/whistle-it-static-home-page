@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Circle Tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.04323192,3.5498372 C0.804578188,3.32954145 0.417644034,3.32954145 0.1789903,3.5498372 C-0.0596634335,3.77013295 -0.0596634335,4.12730294 0.1789903,4.3475987 L3.23454586,7.16811152 C3.47319959,7.38840727 3.86013374,7.38840727 4.09878748,7.16811152 L10.8210097,0.962983312 C11.0596634,0.742687558 11.0596634,0.38551757 10.8210097,0.165221816 C10.582356,-0.0550739386 10.1954218,-0.0550739386 9.95676808,0.165221816 L3.66666667,5.97146927 L1.04323192,3.5498372 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-whistle" transform="translate(-155.000000, -2124.000000)">
+            <g id="Circle-Tick" transform="translate(155.000000, 2124.000000)">
+                <circle id="Oval" fill="#03D7A0" cx="11" cy="11" r="11"></circle>
+                <g id="check" transform="translate(5.500000, 7.333333)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

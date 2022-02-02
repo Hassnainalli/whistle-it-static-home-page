@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="589px" viewBox="0 0 1440 589" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 54.1 (76490) - https://sketchapp.com -->
+    <title>1E44CE09-0736-4366-A13E-EAE79FF1406C</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="589"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Industries-whistle">
+            <g id="Group-23" transform="translate(-65.000000, 0.000000)">
+                <g id="Fill-11">
+                    <g id="Fill-29">
+                        <g id="Fill-11" transform="translate(65.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#2F2C54" xlink:href="#path-1"></use>
+                            <polygon fill="#B1008D" mask="url(#mask-2)" points="997 713.078292 1171 713.078292 1171 528.551601 997 528.551601"></polygon>
+                        </g>
+                        <path d="M0,589 L0,589 C0,446.675136 108.79434,331.298932 243,331.298932 L243,589 L0,589 Z" fill="#03D7A0" transform="translate(121.500000, 460.149466) scale(-1, 1) translate(-121.500000, -460.149466) "></path>
+                    </g>
+                </g>
+                <circle id="Oval" fill="#03D7A0" cx="1505" cy="213" r="96"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
